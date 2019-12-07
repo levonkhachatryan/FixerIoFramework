@@ -1,0 +1,8 @@
+G:\cragravorum\c#\github\FixerIoFramework\FixerI0.Library\FixerI0.Library\bin\Debug\netstandard2.0\FixerI0.Library.deps.json
+G:\cragravorum\c#\github\FixerIoFramework\FixerI0.Library\FixerI0.Library\bin\Debug\netstandard2.0\FixerI0.Library.dll
+G:\cragravorum\c#\github\FixerIoFramework\FixerI0.Library\FixerI0.Library\bin\Debug\netstandard2.0\FixerI0.Library.pdb
+G:\cragravorum\c#\github\FixerIoFramework\FixerI0.Library\FixerI0.Library\obj\Debug\netstandard2.0\FixerI0.Library.csprojAssemblyReference.cache
+G:\cragravorum\c#\github\FixerIoFramework\FixerI0.Library\FixerI0.Library\obj\Debug\netstandard2.0\FixerI0.Library.AssemblyInfoInputs.cache
+G:\cragravorum\c#\github\FixerIoFramework\FixerI0.Library\FixerI0.Library\obj\Debug\netstandard2.0\FixerI0.Library.AssemblyInfo.cs
+G:\cragravorum\c#\github\FixerIoFramework\FixerI0.Library\FixerI0.Library\obj\Debug\netstandard2.0\FixerI0.Library.dll
+G:\cragravorum\c#\github\FixerIoFramework\FixerI0.Library\FixerI0.Library\obj\Debug\netstandard2.0\FixerI0.Library.pdb
