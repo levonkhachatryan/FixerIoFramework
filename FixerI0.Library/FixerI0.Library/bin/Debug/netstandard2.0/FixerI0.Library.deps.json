@@ -9,7 +9,8 @@
     ".NETStandard,Version=v2.0/": {
       "FixerI0.Library/1.0.0": {
         "dependencies": {
-          "NETStandard.Library": "2.0.3"
+          "NETStandard.Library": "2.0.3",
+          "RestSharp": "106.6.10"
         },
         "runtime": {
           "FixerI0.Library.dll": {}
@@ -19,6 +20,14 @@
       "NETStandard.Library/2.0.3": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "RestSharp/106.6.10": {
+        "runtime": {
+          "lib/netstandard2.0/RestSharp.dll": {
+            "assemblyVersion": "106.6.10.0",
+            "fileVersion": "106.6.10.0"
+          }
         }
       }
     }
@@ -42,6 +51,13 @@
       "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
       "path": "netstandard.library/2.0.3",
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "RestSharp/106.6.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-x1FM32hjnVOIn+DKtCs2Y4Q2DCUE5KW08NUXUd4GjgKjE+5PE0F6e9XfUg7nILo05M0TA/HRkRD/SeQ8+duOUA==",
+      "path": "restsharp/106.6.10",
+      "hashPath": "restsharp.106.6.10.nupkg.sha512"
     }
   }
 }

@@ -1,0 +1,15 @@
+G:\cragravorum\c#\github\FixerIoFramework\FixerI0.Library\FixerIo.Framework\bin\Debug\netcoreapp3.1\FixerIo.Framework.exe
+G:\cragravorum\c#\github\FixerIoFramework\FixerI0.Library\FixerIo.Framework\bin\Debug\netcoreapp3.1\FixerIo.Framework.deps.json
+G:\cragravorum\c#\github\FixerIoFramework\FixerI0.Library\FixerIo.Framework\bin\Debug\netcoreapp3.1\FixerIo.Framework.runtimeconfig.json
+G:\cragravorum\c#\github\FixerIoFramework\FixerI0.Library\FixerIo.Framework\bin\Debug\netcoreapp3.1\FixerIo.Framework.runtimeconfig.dev.json
+G:\cragravorum\c#\github\FixerIoFramework\FixerI0.Library\FixerIo.Framework\bin\Debug\netcoreapp3.1\FixerIo.Framework.dll
+G:\cragravorum\c#\github\FixerIoFramework\FixerI0.Library\FixerIo.Framework\bin\Debug\netcoreapp3.1\FixerIo.Framework.pdb
+G:\cragravorum\c#\github\FixerIoFramework\FixerI0.Library\FixerIo.Framework\bin\Debug\netcoreapp3.1\RestSharp.dll
+G:\cragravorum\c#\github\FixerIoFramework\FixerI0.Library\FixerIo.Framework\bin\Debug\netcoreapp3.1\FixerI0.Library.dll
+G:\cragravorum\c#\github\FixerIoFramework\FixerI0.Library\FixerIo.Framework\bin\Debug\netcoreapp3.1\FixerI0.Library.pdb
+G:\cragravorum\c#\github\FixerIoFramework\FixerI0.Library\FixerIo.Framework\obj\Debug\netcoreapp3.1\FixerIo.Framework.csprojAssemblyReference.cache
+G:\cragravorum\c#\github\FixerIoFramework\FixerI0.Library\FixerIo.Framework\obj\Debug\netcoreapp3.1\FixerIo.Framework.AssemblyInfoInputs.cache
+G:\cragravorum\c#\github\FixerIoFramework\FixerI0.Library\FixerIo.Framework\obj\Debug\netcoreapp3.1\FixerIo.Framework.AssemblyInfo.cs
+G:\cragravorum\c#\github\FixerIoFramework\FixerI0.Library\FixerIo.Framework\obj\Debug\netcoreapp3.1\FixerIo.Framework.csproj.CopyComplete
+G:\cragravorum\c#\github\FixerIoFramework\FixerI0.Library\FixerIo.Framework\obj\Debug\netcoreapp3.1\FixerIo.Framework.dll
+G:\cragravorum\c#\github\FixerIoFramework\FixerI0.Library\FixerIo.Framework\obj\Debug\netcoreapp3.1\FixerIo.Framework.pdb
